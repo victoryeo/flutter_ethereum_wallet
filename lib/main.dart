@@ -2,8 +2,6 @@ import 'package:provider/single_child_widget.dart';
 
 import 'router.dart';
 import 'app_config.dart';
-import 'provider/counter.dart';
-import 'provider/walletd.dart';
 import 'service_provider.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
